@@ -1,6 +1,9 @@
 # learning-materials
 Links to various learning materials. Originally from the `#learning_materials` channel on slack, now any and all resources should be brought over to this repo with a PR.
 
+# Disclaimer
+Don't attach PDFs to books that are not meant to be linked to online. Links preferable over attaching a PDF or other document format.
+
 [The Beginner's Guide to Android Game Development](http://www.amazon.com/Beginners-Guide-Android-Game-Development/dp/1908689269), by James Cho.
 > @kennychong: If anyone is interested in learning to build games in Java and Android.
 > The author uses Eclipse IDE, but it shouldn't be too difficult to translate his tutorials to Android Studios.
